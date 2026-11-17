@@ -20,3 +20,8 @@
 
 [Link text](https://example.com)
 ![Alt text](image.png)
+
+```py
+def greet(name):
+  return f"Hello, {name}"
+```
