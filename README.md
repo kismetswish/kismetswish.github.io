@@ -17,3 +17,6 @@
 1. Step one
 2. Step two
 3. Step three
+
+[Link text](https://example.com)
+![Alt text](image.png)
