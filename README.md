@@ -25,3 +25,32 @@
 def greet(name):
   return f"Hello, {name}"
 ```
+
+> This is a note or a quote.
+---
+# Weather App
+A simple CLI tool to check the weather by city name.
+
+This tool fetches live weather data using the OpenWeatherMap APIT, Built in Python, it's meant for quick use in terminal environments.
+
+1. Clone the repo
+2. Install dependencies
+3. Run the app
+
+```bash
+git clone https://github.com/username/weather-app.git
+cd weather-app
+pip install -r requirements.txt
+```
+
+Run the following command:  
+
+```bash  
+python weather.py Mumbai 
+```
+
+Want to contribute? Fork the repo, make changes, and open a pull request. See CONTRIBUTING.md for more. 
+MIT License. See the LICENSE file for details. 
+
+Created by [Your Name](https://yourwebsite.com)  
+For support, contact your@email.com 
