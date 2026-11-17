@@ -9,3 +9,11 @@
 *italic* or _italic_
 **bold** or __bold__
 ***bold and italic***
+
+- Item 1
+- Item 2
+  - Sub-item
+
+1. Step one
+2. Step two
+3. Step three
